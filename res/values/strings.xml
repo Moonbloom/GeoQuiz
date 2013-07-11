@@ -8,6 +8,9 @@
 	<string name="correct_toast">Correct!</string>
 	<string name="incorrect_toast">Incorrect!</string>
 	<string name="next_button">Next</string>
+	<string name="previous_button">Prev</string>
+	<string name="previous_button_description">Previous question</string>
+	<string name="next_button_description">Next question</string>
 	<string name="question_1">The Pacific Ocean is larger than the Atlantic Ocean.</string>
 	<string name="question_2">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
 	<string name="question_3">The source of the Nile River is in Egypt.</string>
